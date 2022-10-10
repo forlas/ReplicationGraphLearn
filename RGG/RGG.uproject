@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{386A6590-4F9F-E30D-C25F-D2BBAC8EB400}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RGG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
